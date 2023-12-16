@@ -25,4 +25,9 @@ DynamoGraph is a Python-based project for analyzing and visualizing motion data.
 1. Edit the `time` and `distance` lists in the Python script with your data.
 2. Run the script
 
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
    

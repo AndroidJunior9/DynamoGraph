@@ -1,3 +1,4 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) 
 # DynamoGraph
 
 DynamoGraph is a Python-based project for analyzing and visualizing motion data. It takes time and distance values, calculates velocity, and plots distance and velocity over time.
